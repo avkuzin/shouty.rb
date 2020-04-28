@@ -1,9 +1,9 @@
-Feature: Hear Shout Today
+Feature: Hear Shout
 
-  Shouts have a range up to 1000m
+  Shouts have a range up to 1000m today
 
   Scenario: In range shout is heard
-    Given Lucy is at 0, 0
+    Given Lucy is at 0, 0 today
     And Sean is at 0, 900
     When Sean shouts
     Then Lucy should hear Sean
