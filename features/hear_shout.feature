@@ -1,4 +1,4 @@
-Feature: Hear Shout
+Feature: Hear Shout Today
 
   Shouts have a range up to 1000m
 
