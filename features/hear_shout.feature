@@ -13,3 +13,4 @@ Feature: Hear Shout today
     And Sean is at 800, 800
     When Sean shouts
     Then Lucy should hear nothing
+ 
